@@ -1,6 +1,7 @@
-#vim .bashrc
-#export PATH=$PATH:/usr/local/bin/
-#source .bashrc
+# Create IAM Role and attache it to the EC2 instance
+vim .bashrc
+export PATH=$PATH:/usr/local/bin/
+source .bashrc
 
 
 #! /bin/bash
